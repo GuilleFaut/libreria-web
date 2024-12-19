@@ -15,3 +15,28 @@ Stelle sicher, dass du die folgenden Programme installiert hast, bevor du das Pr
 Klonen Sie dieses Repository auf Ihren lokalen Rechner mit folgendem Befehl:
 ```bash
 git clone https://github.com/GuilleFaut/libreria-web.git
+
+### 2. Abhängigkeiten installieren
+Nachdem du das Projekt geklont hast, gehe in das Projektverzeichnis und installiere die erforderlichen Abhängigkeiten mit:
+
+bash
+Copiar código
+cd libreria-web
+npm install
+
+### 3. Projekt ausführen
+Nachdem die Abhängigkeiten installiert wurden, kannst du das Projekt lokal mit folgendem Befehl starten:
+
+bash
+Copiar código
+npm start
+Dies sollte die Anwendung im Browser unter http://localhost:3000 öffnen.
+
+### 4. Projekt stoppen
+Um den lokalen Server zu stoppen, drücke einfach CTRL + C in dem Terminal, in dem das Projekt läuft.
+
+Verwendete Technologien
+React: Für den Aufbau der Benutzeroberfläche.
+Node.js: Für das Backend.
+Express: Falls du einen Backend-Server hast, der die API verwaltet.
+LocalStorage: Um den Warenkorb-Status im Browser des Benutzers zu speichern.
