@@ -1,4 +1,4 @@
-# Bibliotheks-Web
+# Libreria-Web
 
 ## Beschreibung
 Dies ist ein Projekt für eine Bibliotheks-Webanwendung, bei der Benutzer Bücher durchsuchen, nach ihnen suchen, sie in ihren Warenkorb legen und Produkte aus dem Warenkorb entfernen können, ohne sich anzumelden. Das Projekt wurde mit **React** und **Node.js** entwickelt. Der Backend-Server verwendet **MongoDB** und liest eine `books.json`-Datei für Buchinformationen.
