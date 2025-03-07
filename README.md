@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Libreria-Web
 
 ## Beschreibung
@@ -54,3 +55,67 @@ Um den lokalen Server zu stoppen, drücke einfach CTRL + C in dem Terminal, in d
 - Express: Falls du einen Backend-Server hast, der die API verwaltet.
 - MongoDB: Zum Speichern von Daten im Backend.
 - LocalStorage: Um den Warenkorb-Status im Browser des Benutzers zu speichern.
+=======
+📚 Online Bookstore
+
+This is an online bookstore project where users can browse books, search for them, and manage a shopping cart without the need to log in.
+
+
+🎯 Main Features
+
+Search for books by title or author.
+
+Add and remove books from the cart.
+
+Save the cart state using local storage.
+
+Responsive and user-friendly design.
+
+
+📚 Technologies Used
+
+Frontend: React with Vite
+
+Backend: Node.js and Express
+
+Styling: CSS/Tailwind
+
+Local Storage: LocalStorage
+
+
+🔧 Installation and Usage
+
+Follow these steps to run the project locally:
+
+1.Clone the repository:
+
+git clone https://github.com/GuilleFaut/libreria-web.git
+cd libreria-web
+
+2.Install dependencies:
+
+npm install
+
+3.Start the application:
+
+npm run dev
+
+4.Open the application in your browser 
+http://localhost:5173
+
+
+📷 Screenshots
+
+Add screenshots of the application in action here.
+
+
+✨ Live Demo
+
+If you have the project deployed, add the link here.
+
+
+👨‍💻 Author
+
+Guillermo Faut
+[LinkedIn](https://www.linkedin.com/in/guillermo-faut-92902389/) | [GitHub](https://github.com/GuilleFaut)
+>>>>>>> ca9df56 (Updated README with better structure and English translation)
