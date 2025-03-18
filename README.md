@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Libreria-Web
 
 ## Beschreibung
